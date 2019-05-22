@@ -6,7 +6,11 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "firebase": "^6.0.2",
     "react": "16.8.3",
     "react-native": "0.59.8"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
   }
 }
